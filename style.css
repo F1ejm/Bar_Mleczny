@@ -1,0 +1,15 @@
+body{
+    background-image: url(img/background.png);
+}
+
+.Table{
+    background-color: transparent;
+    border-style: none;
+    background-image: url(img/gramofon.png);
+    background-repeat: no-repeat;
+    padding: 130px;
+}
+
+.Table:hover {
+    background-image: url(img/gramofon_rot.png);
+}
