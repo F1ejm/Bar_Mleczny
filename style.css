@@ -12,4 +12,8 @@ body{
 
 .Table:hover {
     background-image: url(img/gramofon_rot.png);
+    background-color: transparent;
+    border-style: none;
+    background-repeat: no-repeat;
+    padding: 130px;
 }
