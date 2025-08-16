@@ -1,20 +1,28 @@
 body{
     background-image: url(img/background.png);
+    display: flex;
 }
 
-.Table{
-    background-color: transparent;
-    border-style: none;
+.gramofon{
     background-image: url(img/gramofon.png);
-    background-size: 50%;
     background-repeat: no-repeat;
-    padding: 50%;
+    display: flex;
+    width: 220px;
+    height: 267px;
 }
 
-.Table:hover {
+.gramofon:hover{
     background-image: url(img/gramofon_rot.png);
-    size: 100%;
-    background-color: honeydew;
-    border-style: none;
     background-repeat: no-repeat;
+    display: flex;
+    width: 220px;
+    height: 270px;
+}
+
+.ScottPilgrim{
+    background-image: url(img/kim_gray<3.png);
+    background-repeat: no-repeat;
+    display: flex;
+    min-width: 190px;
+    min-height: 270px;
 }
