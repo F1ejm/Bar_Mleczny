@@ -13,11 +13,20 @@ body{
 }
 
 .top{
-    background-color: rgb(0, 0, 255);
-    padding: 10px;
+    display: flex;
+    background-color: rgb(73, 86, 238);
+    width: 786px; height: 20px;
+    padding: 7px;
     font-family:"Audiowide", sans-serif;
+    color: azure;
+    
 }
 
-.top:hover{
-    s
+.h{
+    width: 90%;
+}
+
+.icons{
+    background-color: aqua;
+    float: right;
 }
