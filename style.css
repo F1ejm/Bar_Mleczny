@@ -33,5 +33,14 @@ body{
 
 .navi{
     background-color: rgb(167, 167, 167);
-    width: 150px; height: 666px;
+    width: 150px; height: 646px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.Home {
+    background-color: rgb(117, 117, 117);
+    width: 85%; height: 45px;
+    border-style: solid;
+    border-color: whitesmoke rgb(80, 80, 80) rgb(80, 80 , 80) whitesmoke;
 }
