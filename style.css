@@ -30,3 +30,8 @@ body{
     background-color: aqua;
     float: right;
 }
+
+.navi{
+    background-color: rgb(167, 167, 167);
+    width: 150px; height: 666px;
+}
