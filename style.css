@@ -6,42 +6,34 @@ body{
     justify-content: center;
 }
 
-.main{
-    background-color: rgb(240, 248, 255);
-    position: relative;
+main{
+    background-color: rgba(245, 245, 245, 0.356);
     width: 800px; height: 700px;
+    border-style: solid;
+    border-color: rgb(116, 116, 255);
+    border-radius: 5px;
+    border-width: 5px;
+    margin-top: 30px;
 }
 
 .top{
+    background-color: rgb(116, 116, 255);
+    width: 800px; height: 35px;
     display: flex;
-    background-color: rgb(73, 86, 238);
-    width: 786px; height: 20px;
-    padding: 7px;
-    font-family:"Audiowide", sans-serif;
-    color: azure;
-    
+    position: relative;
 }
 
-.h{
-    width: 90%;
+.topText{
+    margin: 4px 0 5px 10px;
+    font-size: 20px;
+    font-family: "Doto", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: whitesmoke;
 }
 
-.icons{
-    background-color: aqua;
-    float: right;
+.topIcon{
+    position: absolute;
+    top: 5px;
+    right: 5px;
 }
-
-.navi{
-    background-color: rgb(167, 167, 167);
-    width: 150px; height: 646px;
-    padding-top: 20px;
-    padding-left: 20px;
-}
-
-.Home {
-    background-color: rgb(117, 117, 117);
-    width: 85%; height: 45px;
-    border-style: solid;
-    border-color: whitesmoke rgb(80, 80, 80) rgb(80, 80 , 80) whitesmoke;
-}
-
