@@ -41,6 +41,9 @@ main{
 .navi{
     background-color: rgb(184, 184, 184);
     width: 175px; height: 665px ;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0 10px 0 0 ;
 }
 
 .NaviButton{
@@ -62,6 +65,14 @@ main{
 }
 
 .Icon2{
+    margin-top: 3px;
+}
+
+.Icon3{
+    margin-top: 3px;
+}
+
+.Icon4{
     margin-top: 2px;
 }
 
@@ -76,10 +87,20 @@ main{
 
 .text1{
     margin-top: 7px;
-    margin-right: 12px;
+    margin-right: 11px;
 }
 
 .text2{
     margin-top: 7px;
     margin-right: 2px;
+}
+
+.text3{
+    margin-top: 7px;
+    margin-right: 7px;
+}
+
+.text4{
+    margin-top: 7px;
+    margin-right: 8px;
 }
