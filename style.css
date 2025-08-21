@@ -38,6 +38,12 @@ main{
     right: 5px;
 }
 
+.content{
+    background-color: aliceblue;
+    width: 800px; height: 665px;
+    display: flex;
+}
+
 .navi{
     background-color: rgb(184, 184, 184);
     width: 175px; height: 665px ;
@@ -103,4 +109,9 @@ main{
 .text4{
     margin-top: 7px;
     margin-right: 8px;
+}
+
+.MainText{
+    background-color: firebrick;
+    width: 615px; height: 665px;
 }
